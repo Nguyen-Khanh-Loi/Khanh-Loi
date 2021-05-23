@@ -1,0 +1,302 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+body
+{
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-position: center;
+    box-sizing:  border-box;
+    font-family: sans-serif;
+    
+}
+
+.menu-bar
+{
+   
+    background: white;
+    text-align: center;
+}
+.menu-bar ul
+{
+    display: inline-flex;
+    list-style: none;
+    color: rgb(8, 8, 8);
+}
+.menu-bar ul li
+{
+   width: 140px;
+   height: 20px;
+   margin: 1px;
+   padding: 1px;
+}
+
+.branch
+{
+    position: absolute;
+width: 1440px;
+height: 147px;
+left: 0px;
+top: 800px;
+
+/* white */
+
+background: #FFFFFF;
+}
+
+.fashion
+{
+    position: absolute;
+width: 345px;
+height: 50px;
+left: 130px;
+top: 1067px;
+
+font-family: Lexend;
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 50px;
+/* identical to box height */
+
+
+/* black */
+
+color: #1A1A1A;
+
+}
+
+.hoody
+{
+position: absolute;
+width: 380px;
+height: 504px;
+left: 130px;
+top: 1217px;
+
+}
+
+.Driveor
+{
+    position: absolute;
+    width: 484px;
+    height: 150px;
+    left: 430px;
+    top: 1273px;
+    
+    font-family: Lexend;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 120px;
+    line-height: 150px;
+    /* identical to box height */
+    
+    
+    /* black */
+    
+    color: #1A1A1A;
+    
+    /* black */
+    
+    border: 2px solid #1A1A1A;
+    box-sizing: border-box;
+}
+
+.beDriven
+{
+    position: absolute;
+width: 578px;
+height: 150px;
+left: 630px;
+top: 1393px;
+
+font-family: Lexend;
+font-style: normal;
+font-weight: 600;
+font-size: 120px;
+line-height: 150px;
+/* identical to box height */
+
+
+/* black */
+
+border: 2px solid #1A1A1A;
+box-sizing: border-box;
+}
+
+.hat
+{
+    position: absolute;
+width: 200px;
+height: 251.47px;
+left: 1110px;
+top: 1217px;
+
+}
+
+.shoes
+{
+    position: absolute;
+width: 329.83px;
+height: 295px;
+left: 932px;
+top: 1426px;
+}
+
+.text
+{
+    position: absolute;
+width: 280px;
+height: 36px;
+left: 630px;
+top: 1545px;
+
+font-family: Lexend;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 17px;
+
+/* black */
+
+color: #1A1A1A;
+}
+
+.newseason
+{
+    position: absolute;
+width: 873px;
+height: 50px;
+left: 130px;
+top: 1901px;
+
+font-family: Lexend;
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 50px;
+/* identical to box height */
+
+
+/* black */
+
+color: #1A1A1A;
+}
+
+.converse
+{
+    position: absolute;
+    width: 580px;
+    height: 436px;
+    left: 130px;
+    top: 2051px;
+    
+    background: #BACBF9;
+}
+
+.converse2
+{
+    position: absolute;
+left: 1.5%;
+right: 1.5%;
+top: 0%;
+bottom: 16.9%;
+
+background: url(edae866e53aaf10a7932a800c68db419.png);
+
+}
+
+.card1
+{
+    position: absolute;
+width: 532px;
+height: 361px;
+left: 678px;
+top: 2087px;
+}
+
+.routeone
+{
+    position: absolute;
+width: 1440px;
+height: 560px;
+left: 0px;
+top: 2667px;
+}
+
+
+
+.container4
+{
+    position: absolute;
+width: 1180px;
+height: 994px;
+left: 130px;
+top: 3407px;
+}
+
+.container5
+{
+    position: absolute;
+width: 1180px;
+height: 856px;
+left: 130px;
+top: 4581px;
+}
+
+
+
+.stayintouch
+{
+    position: absolute;
+width: 87px;
+height: 18px;
+left: 330px;
+top: 5637px;
+
+font-family: Lexend;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+/* black */
+
+color: #1A1A1A;
+}
+
+.sub
+{
+    position: absolute;
+width: 197px;
+height: 50px;
+left: 330px;
+top: 5663px;
+
+font-family: Lexend;
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 50px;
+/* identical to box height */
+
+text-align: center;
+
+/* black */
+
+color: #1A1A1A;
+
+}
+
+.footer
+{
+    position: absolute;
+width: 1440px;
+height: 523px;
+left: 0px;
+top: 5793px;
+}
